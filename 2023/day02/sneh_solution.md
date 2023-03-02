@@ -17,6 +17,7 @@ Check the basic_linux_commands.md file on the same directory day2
 pwd
 
 
+
 2. List all the files or directories including hidden files.
 
 ls -al
